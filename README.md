@@ -6,7 +6,15 @@ To reduce the manual efforts that make this job tedious, we aim at automating th
 Description:
 
 We get to track various AWS resouces in a user's account such as AWS EC2, AWS S3, AWS IAM users and many more and generate the report as and when we require.
+
+![Screen Shot 2024-03-13 at 8 53 52 PM](https://github.com/chinmaychoudhari19/AWS-Resources-Usage-Report/assets/140723464/2a69b951-9fc9-498f-ba9b-ba8ec0a0a0a8)
+
 Shell scripting offers users to connect to AWS through AWS CLI and then schedule report mailing using 'crontab'.
+![Screen Shot 2024-03-13 at 8 55 44 PM](https://github.com/chinmaychoudhari19/AWS-Resources-Usage-Report/assets/140723464/11321f54-9039-44bb-a6ea-b8a2ff2375e8)
+
+
+
+
 
 Pre-requisites and skills:
 
