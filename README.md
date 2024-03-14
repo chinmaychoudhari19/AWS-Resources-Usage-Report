@@ -13,6 +13,10 @@ Shell scripting offers users to connect to AWS through AWS CLI and then schedule
 ![Screen Shot 2024-03-13 at 8 55 44 PM](https://github.com/chinmaychoudhari19/AWS-Resources-Usage-Report/assets/140723464/11321f54-9039-44bb-a6ea-b8a2ff2375e8)
 
 
+Check if the mail has received at the set time/day/date via crontab:
+(Make sure your Ubuntu Linux is equipped to send and receive emails and if not, do follow Reference(1).
+
+![Screenshot from 2024-03-13 19-21-32](https://github.com/chinmaychoudhari19/AWS-Resources-Usage-Report/assets/140723464/1a19723c-7216-4f8e-8ac9-4866657b1123)
 
 
 
